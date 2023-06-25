@@ -8,5 +8,5 @@ Our lettuce weed dataset was taken at the vegetable base in Shandong Province, C
 Our radish weed dataset is taken from public dataset.The dataset of radish weed included 200 radish seedlings and 200 associated weeds. The radish weed dataset from https://github.com/lameski/rgbweeddetection ,and the dataset is freely available for non-commercial applications,and this dataset contain 39 images with the same size of 3264 × 2448.Considering the original image numbers are small and image sizes are large, we cropped the original large images into smaller images. Finally, 200 images of radish seedlings and 200 images of its associated weeds were obtained and used in our experiments.  
 
 Here, we are very grateful to the dataset provided by Petre Lameski, which has greatly helped us in our experiments.  
-Our dataset will also be made public, and the dataset is freely available for non-commercial applications. For additional information, please contact:sdauzcy@163.com
+Our dataset will also be made public, and the dataset is freely available for non-commercial applications
 
